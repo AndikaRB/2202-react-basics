@@ -1,0 +1,48 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "product_name": "Anggur",
+      "price": 15000,
+      "stock": 15
+    },
+    {
+      "id": 3,
+      "product_name": "Apel",
+      "price": 10000,
+      "stock": 10
+    },
+    {
+      "product_name": "Mangga",
+      "price": "20000",
+      "stock": "15",
+      "id": 4
+    }
+  ],
+  "employees": [
+    {
+      "name": "seto",
+      "email": "seto@mail.com",
+      "password": "password",
+      "id": 1
+    },
+    {
+      "name": "Doraemon",
+      "email": "Doraemon12@gmail.com",
+      "password": "Doraemon123!",
+      "id": 3
+    },
+    {
+      "name": "RizkyFaizal",
+      "email": "Rizky@gmail.com",
+      "password": "Rizky123!",
+      "id": 4
+    },
+    {
+      "name": "luckysix",
+      "email": "lucky@gmail.com",
+      "password": "Password1234!!",
+      "id": 5
+    }
+  ]
+}
